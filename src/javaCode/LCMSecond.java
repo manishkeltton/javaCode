@@ -13,7 +13,7 @@ public class LCMSecond {
         	   }
            }
            int lcm = (n1*n2)/gcd;
-           System.out.println(lcm);
+           System.out.println();
 	}
 
 }
